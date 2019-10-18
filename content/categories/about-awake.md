@@ -1,6 +1,7 @@
 ---
-name: ICTF
-image: /uploads/ictf_0.png
-description: ICTF関連のトピック
+name: EFF Deeplink
+image: /uploads/eff-og-3.png
+description: |
+  EFF Deeplink ピックアップ
 ---
 
