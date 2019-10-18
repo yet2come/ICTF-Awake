@@ -1,11 +1,11 @@
 ---
-title: Getting Started
-subtitle: Get Up and Running with Awake
+title: InternetWeek2019 BoF 開催決定！
+subtitle: '11月28日(木) 19:00～20:30 Room3'
 category:
-  - About Awake
-author: Daniel Kelly
-date: 2019-08-03T19:59:59.000Z
-featureImage: /uploads/getting-started-hero.jpg
+  - About ICTF
+author: Takuji Akiyama
+date: 2019-10-14T19:59:59.000Z
+featureImage: /uploads/iw2019-banner.jpg
 ---
 Awake is a Nuxt.js template for generating a beautifully robust static site with blog. 
 
