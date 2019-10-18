@@ -1,5 +1,6 @@
 ---
-name: Third Party Integrations
-image: https://picsum.photos/1800/1801
+name: 秘密
+image: 'https://picsum.photos/1800/1801'
+description: Coming soon...
 ---
-Extend the functionality of Awake with third party integrations
+
