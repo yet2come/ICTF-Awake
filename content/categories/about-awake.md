@@ -1,6 +1,6 @@
 ---
 name: ICTF
-image: /uploads/contact-person.jpg
+image: /uploads/ictf_0.png
 description: ICTF関連のトピック
 ---
 
