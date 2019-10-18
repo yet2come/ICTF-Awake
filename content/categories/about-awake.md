@@ -1,5 +1,6 @@
 ---
-name: About Awake
-image: /logo.svg
+name: About ICTF
+image: /uploads/ictf_0.png
+description: ICTFはInternetWeek 2019のBoF開催申請のために設立されました。
 ---
-All about the Awake Nuxt Template
+
