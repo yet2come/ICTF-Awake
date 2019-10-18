@@ -1,7 +1,6 @@
 ---
-name: EFF Deeplink
+name: EFF Deeplinks
 image: /uploads/eff-og-3.png
-description: |
-  EFF Deeplink ピックアップ
+description: EFF Deeplinks Blog ピックアップ
 ---
 
