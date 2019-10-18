@@ -1,6 +1,6 @@
 ---
-name: 秘密
-image: 'https://picsum.photos/1800/1801'
+name: ICTF
+image: /uploads/ictf_0.png
 description: Coming soon...
 ---
 
