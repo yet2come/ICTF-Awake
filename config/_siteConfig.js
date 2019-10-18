@@ -11,7 +11,7 @@ import theCMS from '../cms/netlify/cms'
 export default {
   siteName: 'ICTF',
   tagline: 'Internet Community Talking about Future',
-  featureImage: '/uploads/home-hero.jpg',
+  featureImage: '/uploads/screen_bg.png',
   logo: 'ICTF_logo3.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
