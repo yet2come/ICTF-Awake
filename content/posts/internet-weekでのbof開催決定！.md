@@ -1,5 +1,5 @@
 ---
-title: Internet WeekでのBoF開催決定！
+title: Internet Week BoF開催決定！
 subtitle: '11/28(木) 19:00～ @浅草橋ヒューリックホール'
 category:
   - ICTF
