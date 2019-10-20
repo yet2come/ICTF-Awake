@@ -13,6 +13,6 @@ featureImage: /uploads/ictf_0.png
 
 しかもどうも組織名だけでなく「参照すべき情報(もしあればURL等で)」も記入せよと申込書にはある。ということはまずドメイン名ありきだ！と、このあたりで例によって目的と手段が入れ替わってくるいつもの流れ…（笑）いろいろ思いつく短めのドメイン名候補はあったのだが、**「ICTF.JP」という一番「それっぽい」ドメインが登録できてしまったので**、締め切りギリギリでBoF主催の組織名は「ICTF」ということになった。
 
-それで「ICTF」ってなんの略？とよく聞かれるのだけど、上のようないきあたりばったりのドメインありきで決めた名前なので現時点では特に決まっているわけではない。「ICT Forum」「Internet Citizen’s Task Force」「Internet Community Talking about Future」等々、候補はいっぱいあるし、もし今回のBoFを機に集まってくれる人たちがいるなら相談してそのうちどれかに落ち着くかもしれない。
+それで「ICTF」ってなんの略？とよく聞かれるのだけど、上のようないきあたりばったりのドメインありきで決めた名前なので現時点では特に決まっているわけではない。「ICT Forum」「Internet Citizen’s Task Force」「Internet Community Talking about Future」等々、候補はいっぱいある中で、そのうちどれかに落ち着くかもしれないし、もしくは永遠に決まらないかもしれない。
 
 補足）私（秋山）の所属する[JAIPA](https://www.jaipa.or.jp/)の主催で毎年沖縄で開催している「[沖縄ICTフォーラム](https://www.jaipa.or.jp/topics/event/okinawa-ict/)」というイベントがありますが、そちらとICTF.JPは全く関係ありません。紛らわしくてすみません…
