@@ -6,7 +6,7 @@
   >
     <div class="navbar-brand">
       <nuxt-link class="navbar-item" to="/">
-        <site-logo v-if="$siteConfig.logo === '/logo.svg'" />
+        <site-logo v-if="$siteConfig.logo === '/ICTF_staging_logo.png'" />
         <img
           v-else
           :src="$siteConfig.logo"
