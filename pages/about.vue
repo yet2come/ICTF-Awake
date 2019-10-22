@@ -1,9 +1,9 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="About Us"
-      subtitle="All about ICTF"
-      image="/uploads/about-hero.jpg"
+      title="All about ICTF
+      subtitle="ICTFについて"
+      image="/uploads/bookshelf.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
       <template v-slot:default>
