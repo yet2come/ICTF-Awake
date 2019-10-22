@@ -1,6 +1,6 @@
 <template>
   <div id="categories-page" class="page-wrapper categories-page">
-    <site-hero title="Categories" image="/uploads/boxes.jpg" />
+    <site-hero title="Categories" subtitle="記事カテゴリー" image="/uploads/boxes.jpg" />
     <main-section theme="one-column">
       <categories-grid />
     </main-section>
