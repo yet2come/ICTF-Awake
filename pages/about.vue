@@ -1,7 +1,7 @@
 <template>
   <div id="about-page" class="page-wrapper about-page content-page">
     <site-hero
-      title="All about ICTF
+      title="All about ICTF"
       subtitle="ICTFについて"
       image="/uploads/bookshelf.jpg"
     ></site-hero>
