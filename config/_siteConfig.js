@@ -66,7 +66,7 @@ export default {
   posts: {
     on: true,
     theme: null,
-    imageDimensions: null, // See card.imageDimensions (can be unique for posts if set here)
+    imageDimensions: null,
     displayAuthor: true,
     date: {
       display: true
