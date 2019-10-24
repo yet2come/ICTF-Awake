@@ -14,13 +14,6 @@
         <h2 class="subtitle animated fadeInUp slower">
           {{ subtitle }}
         </h2>
-        <br />
-        <div
-          v-if="$slots.default"
-          class="under-subtitle animated fadeInDown slower"
-        >
-          <slot />
-        </div>
       </div>
     </div>
   </section>
