@@ -1,5 +1,5 @@
 ---
-title: ICTFの由来
+title: What is ICTF?
 subtitle: ICTF設立(?)と命名の経緯について
 category:
   - ICTF
